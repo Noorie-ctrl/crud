@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "_id": "1",
+      "title": "Sample task",
+      "description": "This is a demo task",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "_id": "2",
+      "title": "Second task",
+      "description": "Another example",
+      "status": "in-progress",
+      "priority": "low"
+    }
+  ]
+}
